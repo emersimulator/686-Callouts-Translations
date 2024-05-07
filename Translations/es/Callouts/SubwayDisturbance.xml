@@ -53,7 +53,7 @@
 			<DIALOGUE TARGET = "M"><![CDATA[~r~Sospechoso: ~w~Sí. ¿Qué deseas?]]></DIALOGUE>
 			<DIALOGUE TARGET = "F"><![CDATA[~r~Sospechosa: ~w~Sí. ¿Qué deseas?]]></DIALOGUE>
 			<DIALOGUE><![CDATA[~b~Tú: ~w~Hemos recibido un informe de un posible disturbio aquí. Necesitaré comprobar algunas cosas.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~r~Sospechoso:~w~ Esto parece innecesario, pero hagalo.]]></DIALOGUE>
+			<DIALOGUE TARGET = "M"><![CDATA[~r~Sospechoso:~w~ Esto parece innecesario, pero hagalo.]]></DIALOGUE>
 			<DIALOGUE TARGET = "M"><![CDATA[~b~You: ~w~Señor, por favor venga conmigo. Necesito hablar con usted en privado.]]></DIALOGUE>
 			<DIALOGUE TARGET = "F"><![CDATA[~b~You: ~w~Señora, por favor venga conmigo. Necesito hablar con usted en privado.]]></DIALOGUE>
 			<DIALOGUE/>
